@@ -1,0 +1,15 @@
+{
+  "name": "simple-redirect-server",
+  "version": "0.0.2",
+  "description": "A simple redirect server using the http library.",
+  "main": "index.js",
+  "keywords": [
+    "http",
+    "redirect"
+  ],
+  "author": "Sebastian Marcusson <sebastiansson> (https://xn--digitaliseringsbyrn-ixb.se/)",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "csv-to-json": "^0.1.2"
+  }
+}
