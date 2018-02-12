@@ -2,12 +2,16 @@
   "name": "simple-redirect-server",
   "version": "0.0.2",
   "description": "A simple redirect server using the http library.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RegionHalland/simple-redirect-server.git"
+  },
   "main": "index.js",
   "keywords": [
     "http",
     "redirect"
   ],
-  "author": "Sebastian Marcusson <sebastiansson> (https://xn--digitaliseringsbyrn-ixb.se/)",
+  "author": "Sebastian Marcusson <sebastiansson> (http://regionhalland.se/)",
   "license": "GPL-2.0",
   "dependencies": {
     "csv-to-json": "^0.1.2"
