@@ -2,13 +2,11 @@
 
 > A simple redirect server used for redirecting old to new sites using a csv file. See example folder for more information.
 
-
 ## Install
 
 ```
 $ npm install simple-redirect-server
 ```
-
 
 ## Usage
 
@@ -22,6 +20,9 @@ srs.init({
     csvFile: "./redirects.csv" //Path to csv file used for redirections
 });
 ```
+
+## Example
+See example folder for an example.
 
 ## License
 
