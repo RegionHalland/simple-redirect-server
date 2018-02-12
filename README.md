@@ -5,13 +5,13 @@
 ## Install
 
 ```
-$ npm install simple-redirect-server
+$ npm install @region-halland/simple-redirect-server
 ```
 
 ## Usage
 
 ```js
-var srs = require('simple-redirect-server');
+var srs = require('@region-halland/simple-redirect-server');
 
 //Init server
 srs.init({
