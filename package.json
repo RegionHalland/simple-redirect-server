@@ -1,6 +1,6 @@
 {
   "name": "region-halland@simple-redirect-server",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple redirect server using the http library.",
   "repository": {
     "type": "git",
