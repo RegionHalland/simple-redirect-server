@@ -24,6 +24,10 @@ srs.init({
 ## Example
 See example folder for an example.
 
+## Q&A
+
+### How should my .csv file be structured to work?
+See the redirect.csv file inside example folder.
 ## License
 
 GPL-2.0 © [Region Halland](http://regionhalland.se)

@@ -15,14 +15,11 @@ exports.init = function(options = {
 	};
 
 	var callback = function (err, json) {
-		console.log(json);
-
 		var server = http.createServer(function (req, res) {
 			//We take everything after the domain url
 			var alias = req.url.substring(1);
 			//Add missing slash
 			alias = "/" + alias;
-
 
 			//If we have a mapping, let's redirect the user to this page
 			if (mappings[alias]) {

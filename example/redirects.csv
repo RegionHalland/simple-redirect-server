@@ -1,3 +1,3 @@
-old_base_url,new_base_url,c,d,e,f,g,old_address,new_address,group_word_match,group_url
-http://www.halland.se/,https://www.visithalland.com/,,,,,,/,https://www.visithalland.com,cykel,https://www.visithalland.com/hiking-biking
-,,,,,,,/sv/visit/evenemang/musik,https://www.visithalland.com/coastal-living/happenings/,,
+old_base_url,new_base_url,old_address,new_address,group_word_match,group_url
+http://www.halland.se/,https://www.visithalland.com/,/,https://www.visithalland.com,cykel,https://www.visithalland.com/hiking-biking
+,,/sv/visit/evenemang/musik,https://www.visithalland.com/coastal-living/happenings/,,
