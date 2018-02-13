@@ -2,10 +2,10 @@ var http = require('http');
 var csv = require('csv-to-json');
 
 exports.init = function(options = {
-		portListen: 1337,
-		httpStatusCode: 301,
-		csvFile: ""
-	}) {
+		portListen = 1337,
+		httpStatusCode = 301,
+		csvFile = ""
+	} = {}) {
 
 	//Array used for mapping old to new routes
 	var mappings = [];
