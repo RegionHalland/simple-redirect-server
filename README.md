@@ -17,7 +17,7 @@ var srs = require('@region-halland/simple-redirect-server');
 srs.init({
     portListen: 1337, //HTTP server will listen on this port
     httpStatusCode: 301, //This will be the http code used for redirections
-    csvFile: "./redirects.csv" //Path to csv file used for redirections
+    csvFile: __dirname + "/redirects.csv" //Path to csv file used for redirections
 });
 ```
 
